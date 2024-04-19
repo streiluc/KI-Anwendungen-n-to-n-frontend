@@ -1,2 +1,2 @@
-<h1>Welcome to the demo project</h1>
-<p>This demo shows use cases of simple "KI-Anwendungen".</p>
+<h1>Welcome to the final project</h1>
+<p>This page shows you some examples of AI-Engineering</p>
