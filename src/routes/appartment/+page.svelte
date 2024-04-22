@@ -116,7 +116,7 @@
 	function handleSubmit() {
 		let url =
             PUBLIC_BASE_URL +
-            "/api/predict/?bfs_number=" +
+            "/api/predict/appartement/?bfs_number=" +
             selected.id +
             "&area=" +
             area +
